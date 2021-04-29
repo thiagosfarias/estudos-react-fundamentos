@@ -1,0 +1,28 @@
+.MegaSena {
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+    align-items: center;
+}
+
+#Resultados {
+    border: solid 2px white;
+    background-color: #e6b39f;
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    border-radius: 2px;
+}
+
+.Number {
+    margin: 1rem;
+}
+
+.MegaSena button{
+    height: 3rem;
+    width: 6rem;
+    border-radius: 5px 5px 5px;
+    background-color: #cc9867;
+    color: #fff;
+    border: none;
+}
